@@ -1,1 +1,1 @@
-flask_name_card
+Name card project written with Flask.
